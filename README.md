@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Fix docs links (#7096)
