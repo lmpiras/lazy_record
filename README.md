@@ -1,1 +1,1 @@
-Conda cv2 ImportError libEGL.so.1 fix (#9255)
+Fix names bug when exporting YOLOv8-World to ONNX (#8941)
