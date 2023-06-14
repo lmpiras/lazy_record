@@ -1,1 +1,1 @@
-Hold failed upload metrics and upload with next upload metrics (#8513)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
