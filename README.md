@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Fix Multi-GPU resume bug (#7328)
