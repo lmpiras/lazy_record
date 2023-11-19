@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Update Discord and Contributing Guide URLs (#9270)
