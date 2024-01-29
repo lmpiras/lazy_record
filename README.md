@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Add bgr hyperparameter (#9139)
