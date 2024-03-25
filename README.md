@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+docs: update view-results-in-terminal.md (#66)
